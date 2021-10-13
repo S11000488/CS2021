@@ -206,7 +206,7 @@ Options: (H) means HTTP/HTTPS only, (F) means FTP only
      cd /tmp
      cd /4100E016
      wget (檔案網址)
-  查看ForYou檔案類型 file ForYou
+     查看ForYou檔案類型 file ForYou
      檢視檔案 cat ForYou
      列印
 ### CTF 9
