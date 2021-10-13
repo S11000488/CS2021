@@ -189,7 +189,28 @@ Options: (H) means HTTP/HTTPS only, (F) means FTP only
 ### CTF 3
   ls >> cat hex.txt
 ### CTF 4
-### CTF 9 rwx-___-___
+  ls >> cat base64.txt
+### CTF 5
+  ls >> find/-name secret
+找到沒有permission denied的
+     cat /opt/secret
+### CTF 6
+     ps aux>> ps aux w>>flag
+     or
+     nc 127.0.0.1 2200
+### CTF 7
+     netstat -ano
+     curl 127.0.0.1
+### CTF 8
+     /tmp
+     cd /tmp
+     cd /4100E016
+     wget (檔案網址)
+  查看ForYou檔案類型 file ForYou
+     檢視檔案 cat ForYou
+     列印
+### CTF 9
+ rwx-___-___
 r=read
 w=write
 x=execute(執行)
