@@ -16,3 +16,11 @@
   此功能可以框選想要的區塊設置邊框
   ```
 [框線](https://www.wibibi.com/info.php?tid=441)
+ ## 字體大小
+ - h1~h6可調整
+ - style中調整
+  ![image](https://user-images.githubusercontent.com/90757612/144098879-661ad198-b903-47bf-af9e-83eb6fe353aa.png):
+ - 格式<h1~6 class="center(字體)">想寫的話</h1~6>
+ ## 跑馬燈介紹
+  <marquee(跑馬燈)><FONT face=楷體_GB2312 (字體用什麼字體) color =red(顏色)>想打的字</marquee>
+ ##未完成##
