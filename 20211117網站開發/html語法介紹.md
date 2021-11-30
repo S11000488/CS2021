@@ -16,6 +16,8 @@
   此功能可以框選想要的區塊設置邊框
   ```
 [框線](https://www.wibibi.com/info.php?tid=441)
+ ## 網頁插入設計
+  - <a href ="網站.com"target"="_blank"> 介紹這是甚麼網站的話</a> [一樣可調整字體大小]
  ## 字體大小
  - h1~h6可調整
  - style中調整
