@@ -17,4 +17,7 @@ css涉及字型、顏色、邊距、高度、寬度、背景影象、高階定�
    - 字形/要改的字形 顏色/要改的顏色
     
 ![image](https://user-images.githubusercontent.com/90757612/148243433-e958254c-8bfb-4050-87f9-11a2392c74ad.png)
-
+### 邊框
+  - < div style="border-width:3px;border-style:outset;border-color:black;padding:5px;" >
+  設定邊框樣式,寬度,顏色
+![image](https://user-images.githubusercontent.com/90757612/148331914-4d2e419c-22d8-4a19-a9c4-c839cc1a4525.png)
